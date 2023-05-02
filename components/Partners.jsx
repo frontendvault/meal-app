@@ -57,7 +57,7 @@ function Partners() {
                       />
                     </div>
 
-                    <div className=" bg-white  ">
+                    <div className=" text-gray-600  ">
                       <p>{partner.text}</p>
                     </div>
                   </div>

@@ -8,7 +8,7 @@ const Cookies = () => {
     <div className="fixed bottom-0 left-0 right-0 w-screen bg-white ">
       <div className="container mx-auto">
         {cookie && (
-          <div className="flex items-center justify-between p-4">
+          <div className="flex items-center justify-between p-4 text-gray-600">
             <div className="hidden md:flex">
               <FaHamburger size={30} className="text-blue-500" />
             </div>

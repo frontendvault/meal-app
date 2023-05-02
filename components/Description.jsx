@@ -10,7 +10,7 @@ function Description() {
           <h3 className=" text-4xl md:text-7xl font-bold tracking-tight text-gray-900 mb-5 ">
             Healthy Affordable Sustainable
           </h3>
-          <p className="md:pr-20">
+          <p className="md:pr-20 text-gray-600">
             It is a long established fact that a reader will be distracted by
             the readable content of a page when looking at its layout. The point
             of using Lorem Ipsum is that it has a more-or-less normal

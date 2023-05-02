@@ -11,7 +11,9 @@ const MailingList = () => {
           <span className="text-gray-600 md:text-gray-400 mb-3 flex">
             Subscribe to our newsletter
           </span>
-          <h3 className="text-3xl font-semibold mb-3">Join Our Mailing List</h3>
+          <h3 className="text-3xl font-semibold mb-3 text-gray-600">
+            Join Our Mailing List
+          </h3>
           <p className="mb-10 text-gray-600 md:text-gray-400 font-light">
             Subscribe to your newsletter to stay in the loop. Our newsletter is
             sent once in a week on every friday to get latest news and updates.

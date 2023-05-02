@@ -24,7 +24,7 @@ function Footer() {
       <footer aria-labelledby="footer-heading" className="container mx-auto">
         <div className="flex flex-col md:flex-row md:justify-between">
           {/* Image section */}
-          <div className="mb-10">
+          <div className="mb-10 text-gray-600">
             <Image src="/images/mpologo.png" alt="MPO" height={20} width={60} />
             <p className="mt-5 pt-3">Copyright © 2022 MPO</p>
             <p>All rights reserved.</p>
@@ -32,17 +32,17 @@ function Footer() {
             <ul className="flex flex-row mt-6">
               <li className="social-icon cursor-pointer mr-3">
                 {/* <Link href="/"> */}
-                <FaInstagram className="text-white" />
+                <FaInstagram className="text-blue-700" />
                 {/* </Link> */}
               </li>
               <li className="social-icon cursor-pointer mr-3">
-                <FaDribbble className="text-white" />
+                <FaDribbble className="text-blue-700" />
               </li>
               <li className="social-icon cursor-pointer mr-3">
-                <FaTwitter className="text-white" />
+                <FaTwitter className="text-blue-700" />
               </li>
               <li className="social-icon cursor-pointer mr-3">
-                <FaYoutube className="text-white" />
+                <FaYoutube className="text-blue-700" />
               </li>
             </ul>
           </div>
